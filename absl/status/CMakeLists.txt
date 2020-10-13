@@ -67,6 +67,7 @@ absl_cc_library(
     absl::core_headers
     absl::raw_logging_internal
     absl::type_traits
+    absl::status
     absl::strings
     absl::utility
     absl::variant
